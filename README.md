@@ -1,4 +1,4 @@
-# Bay-Area-air-pollution-anaysis-after-camp-file
+# Bay-Area-air-pollution-after-Camp-Fire
 This project is for _**CEE263D: Air Pollution and Global Warming: HIstory, Science, and Solutions**_.
 
 In this paper, we studied Bay Area air quality in the 3 weeks after the Camp Fire in November 2018. We discussed our data set from BAAQMD and methods in crawling, analyzing and modeling the data. Moreover, we presented our results and compared air quality in San Francisco and Redwood City. Specifically, our findings are:
